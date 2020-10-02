@@ -222,6 +222,3 @@ changes.
 
   - <https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf>
   - <https://www.youtube.com/watch?v=tKUufzpoHDE>
-
-***Make sure that you Knit your R Markdown into a GitHub-readable
-Markdown file that is synced with your GitHub repo.***
